@@ -13,16 +13,20 @@ By adding the Bot to your server or interacting with it in any way, you agree to
 Your use of the Bot is also subject to and governed by the following Discord terms and policies:
 
 Discord Terms of Service: https://discord.com/terms
+
 Discord Application Terms: https://discord.com/developers/docs/legal
 
 By using the Bot, you agree to comply with all applicable Discord terms and policies.
 
 ## 3. Bot Functionality and Data Sources
 
-    The Bot utilizes public APIs provided by third parties to retrieve information, such as current Roblox versions and executor statuses.
-    All data obtained through these APIs is credited to its respective source where applicable.
-    The Bot uses information provided by APIs and is not affiliated with or endorsed by Roblox Corporation or any specific Roblox executor developers.
-    The Bot does not utilize private APIs for its core functions related to fetching updates or statuses.
+The Bot utilizes public APIs provided by third parties to retrieve information, such as current Roblox versions and executor statuses.
+    
+All data obtained through these APIs is credited to its respective source where applicable.
+    
+The Bot uses information provided by APIs and is not affiliated with or endorsed by Roblox Corporation or any specific Roblox executor developers.
+    
+The Bot does not utilize private APIs for its core functions related to fetching updates or statuses.
 
 ## 4. Beta Commands
 
@@ -35,6 +39,7 @@ Parts of this application's code may have been generated or assisted by artifici
 ## 6. Intellectual Property and Source Code
 
 The source code and intellectual property of the Bot are owned by the bot developers.
+
 Unauthorized distribution, decompilation, reverse engineering, or leakage of the Bot's source code is strictly prohibited. Any such action may result in criminal prosecution for copyright infringement and other legal action.
 
 ## 7. Disclaimer of Warranties
@@ -53,7 +58,8 @@ The bot developers reserve the right to modify or replace these Terms at any tim
 
 If you have any questions about these Terms or wish to report errors, please contact us via:
 
-    Discord server: We don't have a server yet
-    Discord owner: @vmquanalt1
+Discord server: We don't have a server yet
+
+Discord owner: @vmquanalt1
 
 If you contact us, you must have the line or else we don't help you: `I need help in Cake Bypass Bot's Terms of Service` or `I want to report bugs in Cake Bypass Bot`
