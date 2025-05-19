@@ -11,10 +11,8 @@ By adding the Bot to your server or interacting with it in any way, you agree to
 2. Integration with Discord's Terms
 
 Your use of the Bot is also subject to and governed by the following Discord terms and policies:
-
     Discord Terms of Service: https://discord.com/terms
     Discord Application Terms: https://discord.com/developers/docs/legal
-
 By using the Bot, you agree to comply with all applicable Discord terms and policies.
 
 3. Bot Functionality and Data Sources
